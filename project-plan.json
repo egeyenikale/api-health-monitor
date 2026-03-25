@@ -1,0 +1,91 @@
+{
+  "slug": "api-health-monitor",
+  "title": "API Health Monitor",
+  "category": "developer-tool",
+  "difficulty": "medium",
+  "period": "2026-Q2",
+  "estimatedCommits": 12,
+  "description": "Tool that checks API services on a schedule.",
+  "features": [
+    "Endpoint registry",
+    "Scheduled checks",
+    "Latency tracking",
+    "Status history",
+    "Alert rules",
+    "Report output"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for latency tracking",
+      "commitMessage": "feat: add validation rules for latency tracking"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for status history",
+      "commitMessage": "feat: add reporting view for status history"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for alert rules",
+      "commitMessage": "feat: add export or integration support for alert rules"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for report output",
+      "commitMessage": "refactor: improve service boundaries for report output"
+    }
+  ]
+}
