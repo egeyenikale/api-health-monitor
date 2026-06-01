@@ -40,3 +40,7 @@ feat: add validation rules for latency tracking
 
 feat: add reporting view for status history
 
+## 2026-06-01 - Stage 11
+
+feat: add export or integration support for alert rules
+
