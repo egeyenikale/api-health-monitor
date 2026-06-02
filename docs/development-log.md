@@ -44,3 +44,7 @@ feat: add reporting view for status history
 
 feat: add export or integration support for alert rules
 
+## 2026-06-02 - Stage 12
+
+refactor: improve service boundaries for report output
+
